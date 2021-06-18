@@ -1,0 +1,15 @@
+.button-grey {
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+  transition: background-color 0.4s ease;
+  box-shadow: 10px 5px 20px rgba(0, 0, 0, 1.0);
+}
+
+.button-grey:hover {
+  background-color: rgba(200, 200, 200, 1);
+  color: black;
+}
